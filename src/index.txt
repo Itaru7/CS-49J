@@ -1,0 +1,12 @@
+package test;
+import java.io.*;
+import java.util.ArrayList;
+public class Compiler
+Compiler (int String);
+public void test()
+public void test(int a, String b)
+int i = 0;
+boolean check = true;
+String check;
+String check = "rers";
+char test = 's';

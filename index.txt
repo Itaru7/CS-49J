@@ -1,0 +1,29 @@
+package test;
+import java.io.*;
+import java.util.ArrayList;
+public class Compiler
+Compiler (int String);
+public void test()
+public void test(int a, String b)
+int i = 0;
+boolean check = true;
+String a = “A”;
+char test;
+Tier2 a = new Tier2();
+public class Compiler extends test
+public class Compiler implements testA, B 
+interface Bicycle {
+    void changeCadence(int newValue);
+    void changeGear(int newValue);
+    void speedUp(int increment);
+    void applyBrakes(int decrement);
+    Void test();
+}
+class ACMEBicycle implements Bicycle{
+
+    void changeCadence(int newValue) 
+    void changeGear(int newValue) 
+    void speedUp(int increment)
+    void applyBrakes(int decrement) 
+    void printStates() 
+}
